@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golamzaid&label=Profile%20views&color=0e75b6&style=flat" alt="golamzaid" /> </p>
 
-- 🌱 I’m currently learning **C and frontend development**
+- 🌱 I’m currently learning **Python and Machine learning**
 
 - 📫 How to reach me **golamzaid101@gmail.com**
 
